@@ -2,3 +2,5 @@ This is a Finance tracker app, that allows you to keep track of the stocks you
 have or want. The app will have an authentication system so you can log in and out.
 You will also be able to add friends, they to can view your stocks and you can view
 theirs.
+
+https://finance-tracker-agreen.herokuapp.com
